@@ -1,0 +1,10 @@
+sever:
+  port: 8011
+
+spring:
+  application:
+    name: DBEventHandler
+  cloud:
+    config:
+      uri: http://localhost:8010
+      name: rule

@@ -1,0 +1,14 @@
+
+sever:
+  port: 8011
+
+logging:
+  level:
+    root: INFO
+
+kafka.servers: localhost:9092
+kafka.consumer.group-id: test
+kafka.topic: test
+
+
+

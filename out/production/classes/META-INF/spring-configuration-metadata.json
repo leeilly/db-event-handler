@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "dbeventhandler.config.TableMappingProperties",
+      "name": "tablemapping",
+      "type": "dbeventhandler.config.TableMappingProperties"
+    },
+    {
+      "sourceType": "dbeventhandler.config.TableMappingProperties",
+      "name": "tablemapping.columns",
+      "sourceMethod": "getColumns()",
+      "type": "java.util.Map"
+    }
+  ],
+  "properties": []
+}
