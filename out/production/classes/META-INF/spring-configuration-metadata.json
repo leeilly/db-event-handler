@@ -2,12 +2,12 @@
   "hints": [],
   "groups": [
     {
-      "sourceType": "dbeventhandler.config.TableMappingProperties",
+      "sourceType": "com.demo.config.RuleConfigProperties",
       "name": "tablemapping",
-      "type": "dbeventhandler.config.TableMappingProperties"
+      "type": "com.demo.config.RuleConfigProperties"
     },
     {
-      "sourceType": "dbeventhandler.config.TableMappingProperties",
+      "sourceType": "com.demo.config.RuleConfigProperties",
       "name": "tablemapping.columns",
       "sourceMethod": "getColumns()",
       "type": "java.util.Map"
